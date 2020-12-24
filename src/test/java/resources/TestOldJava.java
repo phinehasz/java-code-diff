@@ -11,4 +11,5 @@ public class TestOldJava {
 	public void foo(){
 		System.out.println(111);
 	}
+
 }

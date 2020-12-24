@@ -12,4 +12,10 @@ public class TestOldJava {
 	public void foo(){
 		System.out.println(111);
 	}
+
+
+
+	public void foo2(){
+		System.out.println(111);
+	}
 }
